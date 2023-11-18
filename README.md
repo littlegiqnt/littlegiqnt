@@ -2,48 +2,53 @@
 
 <br />
 
-<picture align="center">
-  <source
-    srcset="https://littlegiqnt-gh-readme-stats.vercel.app/api?username=littlegiqnt&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://littlegiqnt-gh-readme-stats.vercel.app/api?username=littlegiqnt&show_icons=true&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="200" alt="Github Stats" />
-</picture>
-
-<picture align="center">
-  <source
-    srcset="https://littlegiqnt-gh-readme-stats.vercel.app/api/top-langs/?username=littlegiqnt&show_icons=true&theme=tokyonight&layout=donut"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://littlegiqnt-gh-readme-stats.vercel.app/api/top-langs/?username=littlegiqnt&show_icons=true&theme=default&layout=donut"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="200" alt="Top Languages" />
-</picture>
-
-<br />
-
-<a href="https://git.io/streak-stats">
-  <picture align="center">
+<p align="center">
+  <picture>
     <source
-      srcset="https://streak-stats.demolab.com?user=littlegiqnt&theme=tokyonight"
+      srcset="https://littlegiqnt-gh-readme-stats.vercel.app/api?username=littlegiqnt&show_icons=true&theme=tokyonight"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://streak-stats.demolab.com?user=littlegiqnt"
+      srcset="https://littlegiqnt-gh-readme-stats.vercel.app/api?username=littlegiqnt&show_icons=true&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200" alt="GitHub Streak" />
+    <img height=200 alt="Github Stats" />
   </picture>
-</a>
+  
+  <picture>
+    <source
+      srcset="https://littlegiqnt-gh-readme-stats.vercel.app/api/top-langs/?username=littlegiqnt&show_icons=true&theme=tokyonight&layout=donut"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://littlegiqnt-gh-readme-stats.vercel.app/api/top-langs/?username=littlegiqnt&show_icons=true&theme=default&layout=donut"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=200 alt="Top Languages" />
+  </picture>
+
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <source
+        srcset="https://streak-stats.demolab.com?user=littlegiqnt&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://streak-stats.demolab.com?user=littlegiqnt"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height=200 alt="GitHub Streak" />
+    </picture>
+  </a>
+</p>
 
 <br />
-<br />
+
+<a href="https://skillicons.dev">
+  <img height=30 src="https://skillicons.dev/icons?i=js,ts,nodejs,java,kotlin,python,c,cpp,html,css,tailwind,php" />
+  <br />
+  <img height=30 src="https://skillicons.dev/icons?i=aws,nginx,git,github,vscode,idea,vim,docker,kubernetes,mysql,mongodb,postgres" />
+</a>
 
 ### 🌟 About me
 - 💻 I'm a self-taught passionate student developer
