@@ -43,36 +43,6 @@
 </a>
 
 <br />
-
-<a href="https://github.com/Jurredr/github-widgetbox">
-  <picture align="center">
-    <source
-      srcset="https://github-widgetbox.vercel.app/api/skills?languages=js%2Cts%2Cjava%2Cphp%2Cpython%2Chtml%2Ccss%2Cc%2Ccpp%2Ckotlin%2Cbash%2Cxml%2Cjson%2Cyaml%2Cpostgresql%2Cmysql%2Cpowershell%2Cgroovy%2Cmarkdown&includeNames=true&theme=carbon"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-widgetbox.vercel.app/api/skills?languages=js%2Cts%2Cjava%2Cphp%2Cpython%2Chtml%2Ccss%2Cc%2Ccpp%2Ckotlin%2Cbash%2Cxml%2Cjson%2Cyaml%2Cpostgresql%2Cmysql%2Cpowershell%2Cgroovy%2Cmarkdown&includeNames=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img width="400" alt="Skill Languages" />
-  </picture>
-</a>
-
-<a href="https://github.com/Jurredr/github-widgetbox">
-  <picture align="center">
-    <source
-      srcset="https://github-widgetbox.vercel.app/api/skills?tools=git%2Cdocker%2Cnpm%2Cyarn%2Cmongodb%2Cvercel%2Credis%2Cnodejs%2Cheroku%2Capache%2Cnginx%2Caws%2Cgradle%2Cprettier&includeNames=true&theme=carbon"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-widgetbox.vercel.app/api/skills?tools=git%2Cdocker%2Cnpm%2Cyarn%2Cmongodb%2Cvercel%2Credis%2Cnodejs%2Cheroku%2Capache%2Cnginx%2Caws%2Cgradle%2Cprettier&includeNames=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img width="400" alt="Skill Tools" />
-  </picture>
-</a>
-
-<br />
 <br />
 
 ### 🌟 About me
