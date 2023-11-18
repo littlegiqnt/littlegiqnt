@@ -16,14 +16,14 @@
 
 <picture align="center">
   <source
-    srcset="https://littlegiqnt-gh-readme-stats.vercel.app/api/top-langs/?username=littlegiqnt&show_icons=true&theme=tokyonight&layout=compact"
+    srcset="https://littlegiqnt-gh-readme-stats.vercel.app/api/top-langs/?username=littlegiqnt&show_icons=true&theme=tokyonight&layout=donut"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://littlegiqnt-gh-readme-stats.vercel.app/api/top-langs/?username=littlegiqnt&show_icons=true&theme=default&layout=compact"
+    srcset="https://littlegiqnt-gh-readme-stats.vercel.app/api/top-langs/?username=littlegiqnt&show_icons=true&theme=default&layout=donut"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height="200" src="https://littlegiqnt-gh-readme-stats.vercel.app/api/top-langs/?username=littlegiqnt&show_icons=true&theme=default&layout=compact" />
+  <img height="200" src="https://littlegiqnt-gh-readme-stats.vercel.app/api/top-langs/?username=littlegiqnt&show_icons=true&theme=default&layout=donut" />
 </picture>
 
 <br />
