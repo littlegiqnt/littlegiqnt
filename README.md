@@ -61,7 +61,7 @@
 
 ### 🚀 Projects
 - Bridge Scrims : A discord server for minecraft the bridge minigame. Has 20000+ users.
-- MCT : A discord server for minecraft competitive tournament. Has 35000+ users.
+- 새마을 서버
 - Return : A discord server for windows os optimization and many other useful things. Has 790+ users.
 - And more.
 
