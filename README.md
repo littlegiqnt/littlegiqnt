@@ -62,7 +62,7 @@
 ### 🚀 Projects
 - Bridge Scrims : A discord server for minecraft the bridge minigame. Has 20000+ users.
 - Newtown Server(새마을 서버) : A high-quality skyblock minecraft server in Korea.
-- Return : A discord server for windows os optimization and many other useful things. Has 790+ users.
+- Return : A discord server for windows os optimization and many other useful things. Has 1000+ users.
 - And more.
 
 ### 📫 Connect with Me
