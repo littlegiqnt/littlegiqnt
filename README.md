@@ -1,19 +1,14 @@
 <img src="https://github.com/littlegiqnt/littlegiqnt/blob/main/banner.png?raw=true" />
 
-### 🌟 About me
-- 💻 I'm a self-taught student developer
-- 🏠 I live in Seoul, South Korea
-- 💬 I'm very active on Discord
-
 ### 💻 Skills
-- Minecraft server plugins using Spigot/Paper API, and also Bungeecord & Velocity servers
-- Discord bot using discord.js with typescript
+- **Minecraft server plugins** (Spigot/Paper/Bungeecord/Velocity)
+- **Discord bot** (discord.js with typescript)
 
 ### 🚀 Projects
-- Bridge Scrims : A discord server for minecraft the bridge minigame. Has 20000+ users.
-- Newtown Server(새마을 서버) : A high-quality skyblock minecraft server in Korea.
-- Return : A discord server for windows os optimization and many other useful things. Has 1000+ users.
-- And more.
+- **Bridge Scrims**, a discord community server for minecraft the bridge minigame. Has 20000+ users.
+- **Newtown Server (새마을 서버)**, a high-quality skyblock minecraft server in Korea.
+- **Return**, a discord server for Windows OS optimization and many other useful things. Has 1000+ users.
+- And lots of other things
 
 <div align="center">
   <a href="https://discord.com/users/454927000490999809" align="left">
