@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/454927000490999809" align="left">
-    <img src="https://lanyard.cnrad.dev/api/454927000490999809?showDisplayName=true&idleMessage=I'm%20probably%20offline%20rn">
+    <img src="https://lanyard.cnrad.dev/api/454927000490999809?showDisplayName=true&idleMessage=Doin'%20nothing%20special%20rn%20:P">
   </a>
   <br /><br />
   <a href="https://skillicons.dev">
