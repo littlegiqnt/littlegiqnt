@@ -11,7 +11,8 @@
 - And lots of other things
 
 <div align="center">
-  <a href="https://discord.com/users/454927000490999809" align="left">
+  <h3>My Discord</h3>
+  <a href="https://discord.com/users/454927000490999809">
     <img src="https://lanyard.cnrad.dev/api/454927000490999809?showDisplayName=true&idleMessage=Doin'%20nothing%20special%20rn%20:P">
   </a>
   <br /><br />
