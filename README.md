@@ -1,4 +1,5 @@
 <img src="https://github.com/littlegiqnt/littlegiqnt/blob/main/banner.png?raw=true" />
+<sup><sup>Banner image made by @returnxd</sup></sup>
 
 ### 💻 Skills
 - **Minecraft server plugins** (Spigot/Paper/Bungeecord/Velocity)
