@@ -5,12 +5,6 @@
 - **Minecraft server plugins** (Spigot/Paper/Bungeecord/Velocity)
 - **Discord bot** (discord.js with typescript)
 
-### 🚀 Projects
-- **Bridge Scrims**, a discord community server for minecraft the bridge minigame. Has 20000+ users.
-- **Newtown Server (새마을 서버)**, a high-quality skyblock minecraft server in Korea.
-- **Return**, a discord server for Windows OS optimization and many other useful things. Has 1000+ users.
-- And lots of other things
-
 <div align="center">
   <h3>My Discord</h3>
   <a href="https://discord.com/users/454927000490999809">
