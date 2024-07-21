@@ -7,6 +7,23 @@
   <img height=40 src="https://skillicons.dev/icons?i=aws,nginx,git,github,vscode,idea,vim,docker,kubernetes,mysql,mongodb,postgres" />
 </a>
 
+## My Projects
+### Minty
+- High-quality music discord bot, with the most perfact multi-language support.
+### Ranked Bedwars Bot
+- Solo developed high-quality discord bot for ranked bedwars games matchmaking.
+- Automatically deploy into multiple Docker Compose projects according to predefined configurations using CI/CD.
+
+## My Positions In Discord
+- Developer at **Bridge Scrims**(having 20k+ members, biggest Minecraft The Bridge gamemode community)
+- Developer at **Minemen Tier List**(2k+ members, tierlist server for minemen minecraft server)
+- Developer at **Iranian Ranked Bedwars**(2k+ members)
+- Developer at **Pika Ranked Bedwars**(1k+ members)
+- Developer at **Return**(1k+ members)
+- Developer&Manager at **Kixel Studio**(0.8k+ members)
+- Translator at **MEE6**(Most used discord bot, in 20m+ servers)
+- Translator at **Hone**(PC Optimization for gaming)
+
 ## How To Contact Me
 - **Email**: me@littlegiqnt.com
 - **Discord**: littlegiqnt
