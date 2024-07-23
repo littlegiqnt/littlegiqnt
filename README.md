@@ -15,7 +15,7 @@
 - Automatically deploy into multiple Docker Compose projects according to predefined configurations using CI/CD.
 
 ## My Positions In Discord
-- Developer at **Bridge Scrims** (having 20k+ members, biggest Minecraft The Bridge gamemode community)
+- Developer at **Bridge Scrims** (20k+ members, biggest Minecraft The Bridge minigame community)
 - Developer at **Minemen Tier List** (2k+ members, tierlist server for minemen minecraft server)
 - Developer at **Iranian Ranked Bedwars** (2k+ members)
 - Developer at **Pika Ranked Bedwars** (1k+ members)
