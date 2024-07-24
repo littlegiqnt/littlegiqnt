@@ -13,6 +13,7 @@
 ### Ranked Bedwars Bot
 - Solo developed high-quality discord bot for ranked bedwars games matchmaking.
 - Automatically deploy into multiple Docker Compose projects according to predefined configurations using CI/CD.
+- Most of the features can be configured for each server.
 
 ## My Positions In Discord
 - Developer at **Bridge Scrims** (20k+ members, biggest Minecraft The Bridge minigame community)
