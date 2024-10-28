@@ -17,13 +17,13 @@
 
 ## My Positions In Discord
 - Developer at **Bridge Scrims** (20k+ members, biggest Minecraft The Bridge minigame community)
-- Developer at **Minemen Tier List** (2k+ members, tierlist server for minemen minecraft server)
-- Developer at **Iranian Ranked Bedwars** (2k+ members)
-- Developer at **Pika Ranked Bedwars** (1k+ members)
-- Developer at **Return** (1k+ members)
-- Manager at **Kixel Studio** (0.8k+ members)
-- Translator at **MEE6** (Most used discord bot, in 20m+ servers)
-- Translator at **Hone** (PC Optimization for gaming)
+- Developer at **Minemen Tier List** (2.5k+ members, tierlist server for minemen minecraft server)
+- Developer at **Iranian Ranked Bedwars** (2.6k+ members)
+- Developer at **Pika Ranked Bedwars** (2.1k+ members)
+- Developer at **Acentra Ranked Bedfight** (2.1k+ members)
+- Developer at **Asia Ranked Bedwars** (1.6k+ members)
+- Developer at **Return** (1.2k+ members)
+- Manager & Bot Developer at **Kixel Studio** (1k+ members)
 
 ## How To Contact Me
 - **Email**: me@littlegiqnt.com
